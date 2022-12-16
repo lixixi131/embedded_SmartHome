@@ -1,6 +1,8 @@
 # Embedded_SmartHome
 ## 스마트 홈을 위한 라즈베리 파이 기반 프로그램
 ###  영상 링크
+[![Video Label](http://img.youtube.com/vi/MdG2UAjZmLU/0.jpg)]
+
 
 ----
 ## 1. 개발 목적
